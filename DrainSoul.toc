@@ -1,0 +1,7 @@
+## Author(s): Murlocknoise & Crabnab (Ravencrest)
+## Interface: 50100
+## Notes: A simple movable box that alerts you when the target is at or below 20% health meaning it's time to use Drain Soul for PHAT DEEPS!
+## Title: DrainSoul
+## Version: 1.2
+Drainsoul.xml
+Drainsoul.lua
